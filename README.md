@@ -10,6 +10,7 @@ Here,I made a Responsive Paytm-Web-Page Clone using HTML & Tailwind-CSS.
 ## Deploy Link </>
 
 https://beautiful-cobbler-7bf152.netlify.app/
+https://kartikey-mittal.github.io/Paytm-Clone/
 
 
 ## Screenshots
